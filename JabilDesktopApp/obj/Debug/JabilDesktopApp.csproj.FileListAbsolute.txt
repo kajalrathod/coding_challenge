@@ -1,0 +1,13 @@
+C:\kajal\JabilDesktopApp\JabilDesktopApp\bin\Debug\JabilDesktopApp.exe.config
+C:\kajal\JabilDesktopApp\JabilDesktopApp\bin\Debug\JabilDesktopApp.exe
+C:\kajal\JabilDesktopApp\JabilDesktopApp\bin\Debug\JabilDesktopApp.pdb
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp.csprojAssemblyReference.cache
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\MainWindow.baml
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\MainWindow.g.cs
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\App.g.cs
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp_MarkupCompile.cache
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp.g.resources
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp.Properties.Resources.resources
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp.csproj.GenerateResource.cache
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp.exe
+C:\kajal\JabilDesktopApp\JabilDesktopApp\obj\Debug\JabilDesktopApp.pdb
